@@ -1,8 +1,10 @@
-<h1 align="center"> Hey there! 🤩</h1>
-<hr>
-<h2 align="left"> 
+<h1 align="center"> Hey there! I'm Thiago🤩</h1>
+<h2 align="center"> 
    Feel free to know a little more about me!
 </h2>
+
+- I’m currently majoring Eletrical Engineering
+- Learning Python technologies
 
 ### Languages:
 
@@ -14,11 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="25" height="25"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
-</p>
-
-### Currently learning:
-
-<p align="left">
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="c" width="25" height="25"/>
 </p>
 
