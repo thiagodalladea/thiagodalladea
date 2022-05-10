@@ -3,8 +3,8 @@
    Feel free to know a little more about me!
 </h2>
 
-- I’m currently majoring Eletrical Engineering
-- Learning Python technologies
+- I’m currently majoring Infromation Systems at ICMC - USP
+- Learning Python and C++ technologies
 
 ### Languages:
 
