@@ -3,7 +3,7 @@
    Feel free to know a little more about me!
 </h2>
 
-- I’m currently majoring Infromation Systems at ICMC - USP
+- I’m currently majoring Information Systems at ICMC - USP
 - Learning Python and C++ technologies
 
 ### Languages:
