@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there! I'm Thiago🤩</h1>
+<h1 align="center"> Hey there! I'm Thiago :wave: :squirrel: </h1>
 <h2 align="center"> 
    Feel free to know a little more about me!
 </h2>
