@@ -4,7 +4,7 @@
 </h2>
 
 - I’m currently majoring Information Systems at ICMC - USP
-- Learning Python and C++ technologies
+- Learning Python and Javascript technologies
 
 ### Languages:
 
